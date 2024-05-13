@@ -1,0 +1,15 @@
+
+{
+    "office": {
+        "status_emoji":":office:", "status_text":"", "status_text_canonical":"", "ooo_message":""
+    },
+    "clear": {
+        "status_emoji":"", "status_text":"", "status_text_canonical":"", "ooo_message":""
+    },
+    "lunch": {
+        "status_emoji":":bento:", "status_text":"Lunching", "status_text_canonical":"", "ooo_message":""
+    },
+    "wfh": {
+        "status_emoji":":house_with_garden:", "status_text":"Working remotely", "status_text_canonical":"Working remotely", "ooo_message":""
+    }
+}
