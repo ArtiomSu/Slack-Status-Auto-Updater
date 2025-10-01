@@ -2,7 +2,7 @@ const parse = require('./parse_curl');
 const api = require('./slack_api');
 const timeTable = require('./timeTable');
 
-const refreshRate = 10 * 60000; // in milliseconds;
+const refreshRate = 1 * 60000; // in milliseconds;
 
 let parsed_result = undefined;
 

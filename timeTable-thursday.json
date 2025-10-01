@@ -1,0 +1,43 @@
+{
+    "Sunday": [
+        {"start": "00:00:00", "end": "23:59:00", "preset": "clear"}
+    ],
+    "Monday": [
+        {"start": "00:00:00", "end": "09:00:00", "preset": "clear"},
+        {"start": "09:00:00", "end": "13:00:00", "preset": "office"},
+        {"start": "13:00:00", "end": "14:00:00", "preset": "lunch"},
+        {"start": "14:00:00", "end": "17:30:00", "preset": "office"},
+        {"start": "17:30:00", "end": "23:59:59", "preset": "clear"}
+    ],
+    "Tuesday": [
+        {"start": "00:00:00", "end": "09:00:00", "preset": "clear"},
+        {"start": "09:00:00", "end": "13:00:00", "preset": "wfh"},
+        {"start": "13:00:00", "end": "14:00:00", "preset": "lunch"},
+        {"start": "14:00:00", "end": "17:30:00", "preset": "wfh"},
+        {"start": "17:30:00", "end": "23:59:59", "preset": "clear"}
+    ],
+    "Wednesday": [
+        {"start": "00:00:00", "end": "09:00:00", "preset": "clear"},
+        {"start": "09:00:00", "end": "13:00:00", "preset": "office"},
+        {"start": "13:00:00", "end": "14:00:00", "preset": "lunch"},
+        {"start": "14:00:00", "end": "17:30:00", "preset": "office"},
+        {"start": "17:30:00", "end": "23:59:59", "preset": "clear"}
+    ],
+    "Thursday": [
+        {"start": "00:00:00", "end": "09:00:00", "preset": "clear"},
+        {"start": "09:00:00", "end": "13:00:00", "preset": "office"},
+        {"start": "13:00:00", "end": "14:00:00", "preset": "lunch"},
+        {"start": "14:00:00", "end": "17:30:00", "preset": "office"},
+        {"start": "17:30:00", "end": "23:59:59", "preset": "clear"}
+    ],
+    "Friday": [
+        {"start": "00:00:00", "end": "09:00:00", "preset": "clear"},
+        {"start": "09:00:00", "end": "13:00:00", "preset": "wfh"},
+        {"start": "13:00:00", "end": "14:00:00", "preset": "lunch"},
+        {"start": "14:00:00", "end": "17:30:00", "preset": "wfh"},
+        {"start": "17:30:00", "end": "23:59:59", "preset": "clear"}
+    ],
+    "Saturday": [
+        {"start": "00:00:00", "end": "23:59:00", "preset": "clear"}
+    ]
+}
